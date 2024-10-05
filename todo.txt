@@ -1,0 +1,14 @@
+To do for each Programming Language
+
+- Use comments for every task.
+
+- Make some variables and store int, int array, int 2d array and strings datas.
+(with type hinting if possible)
+
+- Convert float to int, int to string and string to int. 
+
+- Get a string from user.
+
+- Print 5 random numbers using a for loop.
+
+- 
